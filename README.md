@@ -15,9 +15,9 @@ Implement algorithms – Implement one or more algorithms that use loops and log
 
 ## UML Diagram
 
-Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README.
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+
+![UML Diagram for my project](UML.png)
 
 ## Video
 
@@ -33,8 +33,8 @@ Record a short video of your story to display here on your README. You can do th
 
 ## Story Description
 
-Write a description of the story that your animation showcases. Give additional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcases.
+My animation shows many pictures of minions and thier names and alters how the images look by using filters such as flip  vertical. The 2D arrays I used for this project are one for all the images and one for the minions names.
 
 ## Image Filter Analysis
 
-Choose at least 2 filters used in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+2 of the four filters that I used and want to explain are the flip vertical filter and the colorize.The flip vertical flips the image in half by mirroring it and the colorize filter changes the colors used in the iage by changing the numbers used in it.
